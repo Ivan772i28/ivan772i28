@@ -56,7 +56,5 @@
 
 <img src="https://raw.githubusercontent.com/ivan772i28/ivan772i28/output/snake.svg" alt="Snake animation" />
 
-###
-
 
 ###
