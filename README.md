@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/ivan772i28/ivan772i28/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">Hola 👋! Mi nombre es ivan... soy programador en varias áreas entre ellas desarrollo web y desarrollo multiplataforma </h2>
 
 ###
