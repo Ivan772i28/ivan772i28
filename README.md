@@ -1,8 +1,9 @@
 
 ###
 
-<h2 align="left">Hola 👋! Mi nombre es ivan... soy programador en varias áreas entre ellas desarrollo web y desarrollo multiplataforma </h2>
+<h2 align="left">Hola 👋! Mi nombre es ivan... soy programador en varias áreas entre ellas desarrollo web y desarrollo multiplataforma e estudiante ing.ciberseguridad TECNM </h2>
 <h1>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bc9c0073-df30-479b-9a8f-0c65f206fd0d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <a href="https://www.instagram.com/1van_551">redes sociales</a>
 
