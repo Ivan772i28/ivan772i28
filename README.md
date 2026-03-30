@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
  
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99am+BATMAN+%F0%9F%A6%87;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I%E2%80%99am+BATMAN+%F0%9F%A6%87" alt="Typing SVG" /></a>
 ###
 
 <br clear="both">
